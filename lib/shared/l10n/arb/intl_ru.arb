@@ -1,0 +1,10 @@
+{
+    "errorGeneral": "Что-то пошло не так",
+    "google": "Google Maps",
+    "osm": "Open Street",
+    "gis": "2GIS",
+    "maps": "Maps",
+    "currentLocation": "Current Location",
+    "errorLocation": "We can't get your current location, please try again",
+    "tryAgain": "Try again"
+}
